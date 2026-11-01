@@ -1,0 +1,9 @@
+.env
+.git
+.pytest_cache
+__pycache__
+*.py[cod]
+*.log
+tests
+demo_client.py
+verify.py
